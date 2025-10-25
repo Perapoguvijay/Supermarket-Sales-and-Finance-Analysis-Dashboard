@@ -23,4 +23,4 @@ The dashboard provides an in-depth view of the supermarket's operations, focusin
 
 Explore the full analysis and drill-down into the data yourself by visiting the live dashboard:
 
-**["D:\Data science and GenAI\PowerBI\Retail sales dashboard.pbix"]**
+**[""]**
